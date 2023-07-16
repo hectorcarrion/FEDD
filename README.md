@@ -13,7 +13,7 @@ The labels are encoded as 2D numpy arrays where the value of each pixel correspo
 * 4: Skin
 
 ## DDI classification labels
-Malignancy classification data is computed from the original DDI dataset release found at https://ddi-dataset.github.io/
+Malignancy classification labels are computed from the original DDI dataset release found at https://ddi-dataset.github.io/
 
 ## Training and inference code
 The training and inference code for FEDD, previous SOTA DeepDerm and our baseline models are found as python notebooks in the `code` directory. Note that we trained on Google Colab connected to Google Drive so you may need to edit pointers to the data in order to run on your own local machine.
