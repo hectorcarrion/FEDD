@@ -22,4 +22,5 @@ The training and inference code for FEDD, previous SOTA DeepDerm and our baselin
 
 ## Questions
 For any questions, comments or additional data requests please contact hcarrion@ucsc.edu
+
 Thanks!
