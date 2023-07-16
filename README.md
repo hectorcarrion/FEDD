@@ -4,7 +4,7 @@ Code repository for FEDD - Fair, Efficient, and Diverse Diffusion-based Lesion S
 ## DDI segmentation labels
 Our labeled segmentation data can be found on the `ddi_labeles` folder. This includes pre-split training, validation and testing sets for 5%, 10%, 15% and 20% of DDI as described on the paper as well as an additional larger test set of annotations split per skin-tone (unbalanced).
 
-The labels are encoded as 2D numpy arrays where the value of each pixel corresponds to the label mask index. The map value-to-class map is as follows:
+The labels are encoded as 2D numpy arrays where the value of each pixel corresponds to the label mask index. The value-to-class map is as follows:
 
 * 0: Background
 * 1: Lesion
