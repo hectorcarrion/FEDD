@@ -12,6 +12,8 @@ The labels are encoded as 2D numpy arrays where the value of each pixel correspo
 * 3: Ruler
 * 4: Skin
 
+The filenames for each mask correspond to the original filenames per sample found on the DDI dataset. No images are shared on this github, only their corresponding masks. To get the original images please visit https://ddi-dataset.github.io/
+
 ## DDI classification labels
 Malignancy classification labels are computed from the original DDI dataset release found at https://ddi-dataset.github.io/
 
