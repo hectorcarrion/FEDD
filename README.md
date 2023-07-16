@@ -6,11 +6,11 @@ Our labeled segmentation data can be found on the `ddi_labeles` folder. This inc
 
 The labels are encoded as 2D numpy arrays where the value of each pixel corresponds to the label mask index. The map value-to-class map is as follows:
 
-0: Background
-1: Lesion
-2: Marker
-3: Ruler
-4: Skin
+* 0: Background
+* 1: Lesion
+* 2: Marker
+* 3: Ruler
+* 4: Skin
 
 ## Training and inference code
 The training and inference code for FEDD, previous SOTA DeepDerm and our baseline models are found as python notebooks in the `code` directory. Note that we trained on Google Colab connected to Google Drive so you may need to edit pointers to the data in order to run on your own local machine.
