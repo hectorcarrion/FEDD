@@ -1,5 +1,5 @@
 # FEDD
-Code repository for FEDD - Fair, Efficient, and Diverse Diffusion-based Lesion Segmentation and Malignancy Classification, published at MICCAI 2023. Arxiv: https://arxiv.org/abs/2307.11654
+Code repository for FEDD - Fair, Efficient, and Diverse Diffusion-based Lesion Segmentation and Malignancy Classification, published at MICCAI 2023. [Main Paper](https://arxiv.org/abs/2307.11654) [Supplementary Materials](https://github.com/hectorcarrion/FEDD/blob/main/FEDD%20Supplementary%20Materials.pdf)
 
 ## sDDI - Segmentation Masks for Diverse Dermatology Images
 Our sDDI segmentation dataset can be found on the `ddi_labeles` folder. This includes pre-split training, validation and testing sets for 5%, 10%, 15% and 20% of DDI (balanced) as well as an additional larger test set of annotations split per skin-tone (unbalanced) as described on the paper.
